@@ -1,10 +1,11 @@
 import React from "react";
 //import Week1 from "./components/week1";
-import Week6 from "./components/week6";
+import Week2 from "./components/week2";
 
 const App = () => (
   <>
-      <Week6 />
+      <Week1 />
+      <Week2 />
   </>
   );
 
