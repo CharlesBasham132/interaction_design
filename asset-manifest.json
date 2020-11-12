@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/interaction_design/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/interaction_design/static/js/main.b306dd4d.chunk.js",
+    "main.js.map": "/interaction_design/static/js/main.b306dd4d.chunk.js.map",
+    "runtime-main.js": "/interaction_design/static/js/runtime-main.43e566e4.js",
+    "runtime-main.js.map": "/interaction_design/static/js/runtime-main.43e566e4.js.map",
+    "static/js/2.7f52ad1b.chunk.js": "/interaction_design/static/js/2.7f52ad1b.chunk.js",
+    "static/js/2.7f52ad1b.chunk.js.map": "/interaction_design/static/js/2.7f52ad1b.chunk.js.map",
+    "index.html": "/interaction_design/index.html",
+    "precache-manifest.5699a51b162b2e097944e77a84d75c33.js": "/interaction_design/precache-manifest.5699a51b162b2e097944e77a84d75c33.js",
+    "service-worker.js": "/interaction_design/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/interaction_design/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.7f52ad1b.chunk.js.LICENSE.txt": "/interaction_design/static/js/2.7f52ad1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43e566e4.js",
+    "static/js/2.7f52ad1b.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.b306dd4d.chunk.js"
+  ]
+}
