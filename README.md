@@ -1,3 +1,29 @@
+# Interaction Design
+
+#### Hosted site: https://charlesbasham132.github.io/interaction_design/
+
+#### GitHub Repo: https://github.com/CharlesBasham132/interaction_design/
+
+
+# Week 1
+
+- Styled components
+- Creating a react application
+
+# Week 2
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
